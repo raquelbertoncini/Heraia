@@ -1,2 +1,4 @@
 # Heraia
-jogos em Python
+## Jogos em Python
+
+Guess_Number = adivinhe o número
